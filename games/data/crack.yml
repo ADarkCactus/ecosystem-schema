@@ -85,6 +85,7 @@ thunderstore:
       name: "Modpacks"
       requireCategories:
         - "modpacks"
+  discordUrl: "https://discord.gg/crack-modding"
   autolistPackageIds:
     - "BepInEx-BepInExPack"
   shortDescription: "Why is there a giant egg in this lab? Your job is simple: crack it open. Don't ask questions. CRACK is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg."
