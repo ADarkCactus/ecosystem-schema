@@ -76,8 +76,6 @@ thunderstore:
       label: "Mods"
     modpacks:
       label: "Modpacks"
-    tools:
-      label: "Tools"
     libraries:
       label: "Libraries"
     misc:
@@ -92,6 +90,8 @@ thunderstore:
       label: "Maps"
     ai-generated:
       label: "AI-Generated"
+    dev_tools:
+      label: "Developer Tools"
   sections:
     mods:
       name: "Mods"
