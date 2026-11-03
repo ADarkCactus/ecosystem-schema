@@ -89,8 +89,8 @@ thunderstore:
     maps:
       label: "Maps"
     ai-generated:
-      label: "AI-Generated"
-    dev_tools:
+      label: "AI Generated"
+    dev-tools:
       label: "Developer Tools"
   sections:
     mods:
@@ -101,4 +101,5 @@ thunderstore:
       name: "Modpacks"
       requireCategories:
         - "modpacks"
-  shortDescription: "Totally Accurate Battle Simulator is a silly physics-based fighting simulation game"
+  discordUrl: "https://discord.gg/nmPYUsXFTz"
+  shortDescription: "Be the leader of wobblers from ancient lands, spooky places, and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created, make your own wobblers in the unit creator and send your army off to fight your friends in multiplayer."
